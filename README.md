@@ -8,21 +8,25 @@ The objective is to clean, standardise, combine and analyse approximately 15,000
 
 ## Project Folder Structure
 
+```text
 Coimbatore_Retail_Sales_Analysis/
 │
-├── 01_Raw_data/
+├── 01_Raw_Data/
 │   ├── Store_A
 │   ├── Store_B
 │   └── Store_C
 │
-├── 02_Cleaned_data/
+├── 02_Cleaned_Data/
 │   ├── Store_A_Cleaned
 │   ├── Store_B_Cleaned
-│   ├── Store_C_Cleaned
+│   └── Store_C_Cleaned
 │
 └── 03_Combined_Data/
     ├── Combined_Analysis.xlsx
     └── Dashboard.png
+```
+
+**Note:** Cleaning logs and documentation explaining the cleaning process are available inside `02_Cleaned_data`.
 
 ## Folder Description
 
